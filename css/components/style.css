@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Noto+Serif&display=swap" rel="stylesheet")
+
+@import url("css/components/container.css");
+@import url("css/components/avatar.css");
+@import url("css/components/button.css");
+@import url("css/components/banner.css");
+@import url("css/components/card.css");
+
+
+body { 
+	font-family: 'Noto', serif;
+	font-color:#EE5B00;
+	font-size: 18px;
+	margin: 0px;
+}
+
+
+h1, h2, h3 {
+
+	font-weight: bold; 
+	font-family: ''Lato', serif;
+	font-color:#EE5B00; 
+}
+    
+}
+
+
+
+}
+
+a { 
+	text-decoration: none;
+ }
+
+ .img-rectangle {
+ 	height: 
+ 	width: ;
+
+
+.btn-blue  {
+	background-color: #002B82;
+	padding: 15px 20px; 
+	border-radius: 4px
+	color: #EE5B00;
+}
+	font-weight: bold; 
+	font-family: 'Roboto', sans-serif;
+
+
+banner h1 {
+  font-color: #ED7D31; 
+  font-size: 50px;
+}
+.banner h2 {
+  color: #ED7D31;
+  font-size: 20px;
+  font-weight: lighter;
+	opacity: 0.8;
+}
